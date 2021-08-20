@@ -1,0 +1,11 @@
+1. git init
+then enter
+2. git remote add origin and url
+then enter
+3. git config --global user.name "AnkitJaiswal1295"
+then enter
+4. git config --global user.mail "ankitjaiswal1295@gmail.com"
+then enter
+5.git add origin master
+then enter
+6. 

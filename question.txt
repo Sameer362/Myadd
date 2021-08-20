@@ -1,0 +1,11 @@
+work done till now in apmosys?
+what is jenkins tomcat and use?
+ci cd pipeline?
+why devops established?
+type of job we can build in jenkins?
+how to deploy ?
+
+diffrence between pipeline and free style project?
+
+
+

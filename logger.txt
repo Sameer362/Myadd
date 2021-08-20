@@ -1,0 +1,35 @@
+	logger.trace("Trace Message : " + e);  
+	        logger.debug("Debug Message : " + e);  
+	        logger.info("Info Message :  "+ e);  
+	        logger.warn("Warn Message :  "+ e);  
+	        logger.error("Error Message :  "+ e);  
+	        logger.fatal("Fatal Message : "+ e );
+
+core java
+linux shell script
+start stop tomcat
+jenkins
+linux commands
+
+infinite loop core java program
+pid find karo 
+command by uisng 
+interface inheritance
+civilisation
+exception
+
+shell scriput if up down 
+pid of it 
+
+
+ls
+commands
+
+shuttomcat ==tomcat start then stop.
+tomcaaat.sh==same start stopchchmod 
+tomcat = shutdown tomcat and start again.
+
+
+java program to start tomcat and stop  tomcat in linux system
+
+  

@@ -1,0 +1,18 @@
+Maven=
+
+It is build tool that help building documenting and managing the project.
+
+
+pom =(project object model)
+
+contains information about project and configuration details
+its an xml file
+also include plugins
+
+GETTING JAR FILE FOR PROJECT
+A
+
+WHAT MAVEN DOES=
+make building of project easily
+easy access to requre information
+dependencies does not need manually

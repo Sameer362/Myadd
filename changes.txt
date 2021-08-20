@@ -1,0 +1,74 @@
+
+
+
+A passionate programmer, born and brought up in India. I am a SOFTWARE/DEVOPS
+Engineer with JENKINS ,OOPS,LINUX also familiar with AWS service also
+front end HTML CSS backend  PHP and database MY-SQL.
+Working with the clients, my goal is always driven towards providing
+amazing experience with the best level of quality and service to them.
+Along with that, I also help people as a COACH on their journey of
+becoming a professional programmer. I love learning about new
+technologies. I'm always curious about the problems they solve. I look
+forward in how can I use them to build better and scalable products.
+Quick learner and excellent team player, ABILITY to meet tight deadlines
+and work under pressure and be productive with new technologies
+Played a key role in a department wide transition from Supervision to Git,
+which resulted in an increase in efficiency for the development
+community
+Good understanding of Web services .
+Knowledge of AWS Services
+HTML, CSS, JAVASCRIPT.
+Skilled in troubleshooting & problem resolution
+Good understanding of OOPS Concepts.
+Strong knowledge in Selenium, SQL, TOMCAT ,JENKINS.
+Willing to work in Automation,DEVOPS .
+Hard working and enthusiastic to learn new technologies.
+Good communication, interpersonal & analytical skills in resolving the
+support issues, handling customer escalations
+
+
+roles and responsibility:
+Working in Jenkins Tomcat
+Building Pipeline
+Setup Continuous integration with Jenkins and 
+make use of wide range of plugins available to 
+setup smooth developer friendly workflows.
+
+Create and maintain fully automated CI/CD pipelines for code deployment
+Reduced deployment time  in days
+Managed Git repositories and permissions by GIT BASH commands.
+Creating test cases and data sheets to automate web /mobile application 
+using selenium.
+
+
+
+
+
+
+
+
+
+
+technical Skills
+
+Expert in: html, css, JENKINS, AWS ,TOMCAT, 
+DEVOPS
+Intermediate in: php, my sql,  oops
+Version control systems: Git, Subversion
+ knowledge of Web security tools:
+LDAP Server
+SSL Certificates
+
+
+
+Core competencies..
+linux,unix
+windows 10 
+aws  DEVOPS
+Git,svn
+jenkins,tomcat
+Selenium,Putty
+Appium,Android Studio
+UIautomatorviewer.
+PHP MY-SQL
+HTML CSS OOPS.
